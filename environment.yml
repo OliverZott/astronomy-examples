@@ -1,0 +1,6 @@
+name: astro1
+dependencies:
+  - python=3.10
+  - ipykernel 
+  - astropy
+  - autopep8
