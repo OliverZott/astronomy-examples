@@ -1,8 +1,9 @@
-# TODO
-- gitignore  
-    - https://blog.reviewnb.com/github-jupyter-notebook/
-    - https://github.com/jupyter/notebook/blob/main/.gitignore
+# About
+Just some astronomy examples
 
+# Content
+
+# TODO
 - conda env
     - `conda env create -f environment.yml`
     - `conda env list`
@@ -19,3 +20,6 @@
     - https://towardsdatascience.com/jupyter-notebook-extensions-517fa69d2231
     - https://github.com/ipython-contrib/jupyter_contrib_nbextensions
      
+- debuggin notebook in vs code / pycharm ???
+
+- unit-tests in notebooks
