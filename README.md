@@ -4,6 +4,10 @@ Just some astronomy examples
 # Content
 
 # TODO
+- extract constants
+- extract utility functions
+
+- pip env
 - conda env
     - `conda env create -f environment.yml`
     - `conda env list`
