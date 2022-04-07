@@ -1,3 +1,6 @@
+.idea/*
+*.idea/*
+
 *.bundle.*
 lib/
 node_modules/
